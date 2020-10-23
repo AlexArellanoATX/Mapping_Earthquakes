@@ -6,7 +6,7 @@ Earthquake Mapping project using Leaflet, Mapbox, JavaScript and HTML to build a
 
 ## Resources
 * Visual Studio Code Version: 1.47.3
-* JavaScript v. ???
+* JavaScript 
 * Leafletjs (open-source JavaScript library)
 * MapBox
 * Choropleth
